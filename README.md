@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/talktoacomputer"><img src="https://api.daily.dev/devcards/a608f0e00ea141fbbd10202fa0b3a607.png?r=h3r" width="400" alt="Hem Sai Avinash Perella's Dev Card"/></a>
+
+Aligning text in native markdown is not possible. However, you can align the text using inline HTML tags.
+
+<div style="display: flex">
+  <a href="https://app.daily.dev/talktoacomputer"><img src="https://api.daily.dev/devcards/a608f0e00ea141fbbd10202fa0b3a607.png?r=h3r" width="400" alt="Hem Sai Avinash Perella's Dev Card"/></a>
+</div>
