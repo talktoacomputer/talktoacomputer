@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: flex-end;">
 	<a href="https://app.daily.dev/talktoacomputer"><img src="https://api.daily.dev/devcards/a608f0e00ea141fbbd10202fa0b3a607.png?r=vg6" width="300" alt="Hem Sai Avinash Perella's Dev Card"/></a>
 </div>
+
+<small>Profile picture art by artofneight (<a href="https://www.deviantart.com/artofneight/art/Avatar-Kyoshi-836521040">DeviantArt</a>)</small>
